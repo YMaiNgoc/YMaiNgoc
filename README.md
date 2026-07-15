@@ -50,7 +50,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YMaiNgoc&theme=tokyonight&margin-w=15&margin-h=15" alt="YMaiNgoc Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YMaiNgoc&theme=tokyonight" alt="YMaiNgoc Activity Graph" width="100%" />
 </p>
 
 <p align="center">
